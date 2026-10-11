@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Mahmuda+%F0%9F%91%8B;Software+Engineer+in+Training;Laravel+%7C+PHP+%7C+Full-Stack+Dev;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Mahmuda+%F0%9F%91%8B;Software+Engineer+Work+In+Progress;Laravel+%7C+PHP+%7C+Full-Stack+Dev;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 </div>
 
@@ -9,9 +9,9 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/mahmuda-mahmi"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mahmudapakter@gamil.com"><img src="https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mahmuda.codechronic.com"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ```javascript
 const mahmuda = {
-    role: "Trainee Software Engineer",
+    role: "Junior Software Engineer",
     currentFocus: "Laravel & PHP Full-Stack Development",
     background: {
         selfTaught: ["JavaScript", "React", "Node.js", "Express.js", "MongoDB"],
@@ -59,16 +59,16 @@ I'm a software engineer currently deep in an intensive Laravel training program 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mahmuda-mahmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmuda-mahmi&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuda-mahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="97%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmuda-mahmi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="97%" alt="Contribution Graph"/>
 </div>
 
 <br/>
