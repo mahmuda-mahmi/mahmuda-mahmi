@@ -67,9 +67,9 @@ I'm a software engineer currently deep in an intensive Laravel training program 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmuda-mahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmuda-mahmi&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="97%" alt="Contribution Graph"/>
-</div>
+</div> -->
 
 <br/>
 
