@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/mahmuda-mahmi"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mahmudapakter@gmail.com"><img src="https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://mahmuda.codechronic.com"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.mahmuda.site/"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 <br/>
