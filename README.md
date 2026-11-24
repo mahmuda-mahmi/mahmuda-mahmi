@@ -1,16 +1,16 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=Hi+there%2C+I'm+Mahmuda+%F0%9F%91%8B;Software+Engineer+Work+In+Progress;Laravel+%7C+PHP+%7C+Full-Stack+Dev;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&height=60&lines=Hi+there%2C+I'm+Mahmuda+%F0%9F%91%8B;Software+Engineer+Work+In+Progress;Laravel+%7C+PHP+%7C+Full-Stack+Dev;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=6C63FF&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/YOUR_GITHUB_USERNAME/profile-readme&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mahmuda-mahmi&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 <div align="center">
   <a href="https://linkedin.com/in/mahmuda-mahmi"><img src="https://img.shields.io/badge/-LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mahmudapakter@gamil.com"><img src="https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mahmudapakter@gmail.com"><img src="https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://mahmuda.codechronic.com"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
